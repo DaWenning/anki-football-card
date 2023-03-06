@@ -1,0 +1,12 @@
+{
+    "name": "Football Learning",
+    "package": "football_learning",
+    "ankiweb_id": "73685215431",
+    "author": "recklessGreed",
+    "version": "v0.0.1",
+    "homepage": "https://github.com/DaWenning/anki-football-card",
+    "conflicts": [
+        "73685215431"
+    ],
+    "mod": 73685215431
+}
